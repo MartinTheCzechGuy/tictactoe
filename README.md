@@ -11,7 +11,7 @@ The hard difficulty uses the Minimax algorithm, which can see all possible outco
 Game start in menu where you need to choose who is going to control both players. The valid instructions are "exit" and "start"
 with desired options for example a game of user against hard difficulty will start with instruction "start user hard"
 
-Insert the coordinates as "column row", the game board is shown bellow. 
-(1, 3) (2, 3) (3, 3)
-(1, 2) (2, 2) (3, 2)
-(1, 1) (2, 1) (3, 1)
+Insert the coordinates as "column row", the game board is shown bellow.  
+(1, 3) (2, 3) (3, 3)  
+(1, 2) (2, 2) (3, 2)  
+(1, 1) (2, 1) (3, 1)  
